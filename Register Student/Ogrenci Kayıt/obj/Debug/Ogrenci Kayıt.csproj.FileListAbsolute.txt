@@ -1,0 +1,7 @@
+C:\Users\Yusuf Kaygusuz\source\repos\Ogrenci Kayıt\Ogrenci Kayıt\bin\Debug\Ogrenci Kayıt.exe.config
+C:\Users\Yusuf Kaygusuz\source\repos\Ogrenci Kayıt\Ogrenci Kayıt\bin\Debug\Ogrenci Kayıt.exe
+C:\Users\Yusuf Kaygusuz\source\repos\Ogrenci Kayıt\Ogrenci Kayıt\bin\Debug\Ogrenci Kayıt.pdb
+C:\Users\Yusuf Kaygusuz\source\repos\Ogrenci Kayıt\Ogrenci Kayıt\obj\Debug\Ogrenci Kayıt.csprojAssemblyReference.cache
+C:\Users\Yusuf Kaygusuz\source\repos\Ogrenci Kayıt\Ogrenci Kayıt\obj\Debug\Ogrenci Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Kaygusuz\source\repos\Ogrenci Kayıt\Ogrenci Kayıt\obj\Debug\Ogrenci Kayıt.exe
+C:\Users\Yusuf Kaygusuz\source\repos\Ogrenci Kayıt\Ogrenci Kayıt\obj\Debug\Ogrenci Kayıt.pdb
