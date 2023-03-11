@@ -16,8 +16,9 @@ namespace Ogrenci_Kayıt
             Student stu2 = new Student("Aslıhan Çelik", 20210510, "aslihancelix@gmail.com", 2.69);
             Console.WriteLine("\n" + stu2.InfoStudent());
 
-            Student stu3 = new Student("Rana Selin", 190106084);
+            Student stu3 = new Student("Bora Çakır", 201101001, "bora@gmail.com", 3.36);
             Console.WriteLine("\n" + stu3.InfoStudent());
+            Console.ReadLine();
         }
     }
 }
